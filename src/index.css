@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: #0f0f0f url("/assets/background.png");
+    background-size: cover;
+}
+
+.glow {
+    text-shadow: 0 0 5px #000000, 0 0 10px #ff00ff, 0 0 20px #ff00ff;
+}
+

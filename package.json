@@ -1,0 +1,36 @@
+{
+    "name": "cyber-cade",
+    "description": "CyberCade is a web based retro-inspired arcade of games that combines classic gaming with interactive cyber security learning. Explore multiple mini-games that teach encryption, malware defense, and ethical hacking in a pixel-art world.",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite --config vite/config.dev.mjs",
+        "build": "vite build --config vite/config.prod.mjs"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.13.3",
+        "@emotion/styled": "^11.13.0",
+        "@mui/icons-material": "^6.1.7",
+        "@mui/material": "^6.1.7",
+        "axios": "^1.7.7",
+        "phaser": "^3.87.0",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "swiper": "^11.1.14"
+    },
+    "devDependencies": {
+        "@types/react": "^18.3.3",
+        "@types/react-dom": "^18.3.0",
+        "@vitejs/plugin-react": "^4.3.1",
+        "autoprefixer": "^10.4.20",
+        "eslint": "^8.57.0",
+        "eslint-plugin-react": "^7.34.2",
+        "eslint-plugin-react-hooks": "^4.6.2",
+        "eslint-plugin-react-refresh": "^0.4.7",
+        "postcss": "^8.4.49",
+        "tailwindcss": "^3.4.15",
+        "terser": "^5.28.1",
+        "vite": "^5.3.1"
+    }
+}
+
