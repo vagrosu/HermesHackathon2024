@@ -10,8 +10,6 @@ Explore multiple mini-games that teach encryption, malware defense, and ethical 
     </a>
 </div>
 
-[![CyberCade](./media/thumbnail.png)](https://youtu.be/9xY4aaT_0gs)
-
 ## Tech Stack
 
 - App: [React](https://react.dev), [Vite](https://vitejs.dev), [Tailwind](https://tailwindcss.com)
