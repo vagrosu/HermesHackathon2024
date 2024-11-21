@@ -26,7 +26,7 @@ Explore multiple mini-games that teach encryption, malware defense, and ethical 
 
 ## Team
 
-- **[Victor Grosu](https://github.com/vagrosu)**
-- **[](https://github.com/Mark1q)**
-- **[](https://github.com/lloyd1515)**
-- **[](https://github.com/DraghiciAlexandru)**
+- **[Grosu Victor](https://github.com/vagrosu)**
+- **[Szeibert Mark-Eduard](https://github.com/Mark1q)**
+- **[Sărăndan Vlad](https://github.com/lloyd1515)**
+- **[Draghici Alexandru](https://github.com/DraghiciAlexandru)**
