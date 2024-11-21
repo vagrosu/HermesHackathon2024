@@ -10,6 +10,8 @@ Explore multiple mini-games that teach encryption, malware defense, and ethical 
     </a>
 </div>
 
+[![CyberCade](./media/thumbnail.png)](https://youtu.be/9xY4aaT_0gs)
+
 ## Tech Stack
 
 - App: [React](https://react.dev), [Vite](https://vitejs.dev), [Tailwind](https://tailwindcss.com)
@@ -23,3 +25,10 @@ Explore multiple mini-games that teach encryption, malware defense, and ethical 
   <code><img width="40" src="https://cdn.phaser.io/images/logo/logo-download-vector.png" alt="Phaser" title="Phaser"/></code>
   <code><img width="40" src="https://static.vecteezy.com/system/resources/previews/022/841/114/non_2x/chatgpt-logo-transparent-background-free-png.png" alt="ChatGPT" title="ChatGPT"/></code>
 </div>
+
+## Team
+
+- **[Victor Grosu](https://github.com/vagrosu)**
+- **[](https://github.com/Mark1q)**
+- **[](https://github.com/lloyd1515)**
+- **[](https://github.com/DraghiciAlexandru)**
