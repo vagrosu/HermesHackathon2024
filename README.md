@@ -6,7 +6,7 @@ Explore multiple mini-games that teach encryption, malware defense, and ethical 
 
 <div align="center">
     <a href="https://youtu.be/9xY4aaT_0gs" target="_blank">
-        <img src="https://img.youtube.com/vi/9xY4aaT_0gs/maxresdefault.jpg" alt="CyberCade - Retro Gaming Meets Cyber Security Learning" style="width: 100%; border-radius: 8px;">
+        <img src="./media/thumbnail.png" alt="CyberCade - Retro Gaming Meets Cyber Security Learning" style="width: 100%; border-radius: 8px;">
     </a>
 </div>
 
