@@ -4,6 +4,8 @@ CyberCade, created during the 24-hour Hermes Hackathon, is a web-based, retro-in
 Powered by the ChatGPT API, the app provides intelligent hints and validates answers to give a better learning experience.
 Explore multiple mini-games that teach encryption, malware defense, and ethical hacking in a vibrant pixel-art world.
 
+## YouTube Demo
+
 <div align="center">
     <a href="https://youtu.be/9xY4aaT_0gs" target="_blank">
         <img src="./media/thumbnail.png" alt="CyberCade" style="width: 100%; border-radius: 8px;">
